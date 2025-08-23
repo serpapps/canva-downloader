@@ -1,0 +1,91 @@
+{
+  "id": 9,
+  "created_at": "2025-01-23T00:00:00Z",
+  "seo_title": "Canva Downloader - Free Download Tool",
+  "seo_description": "Export Canva designs without watermarks in high resolution with all elements intact",
+  "product_page_url": "https://store.serp.co/product-details/product/canva-downloader",
+  "purchase_url": "https://serp.ly/canva-downloader",
+  "store_product_id": null,
+  "name": "Canva Downloader",
+  "tagline": "Export Canva designs without watermarks in high resolution with all elements intact",
+  "featured_image": "images/featured.jpg",
+  "featured_image_gif": "images/featured.gif",
+  "github_repo_url": "https://github.com/serpapps/canva-downloader",
+  "github_repo_tags": [
+    "canva-downloader",
+    "downloader",
+    "automation",
+    "tools"
+  ],
+  "github_gist_url": null,
+  "features": [
+    "Watermark-free exports",
+    "SVG format support",
+    "Animation download",
+    "Template extraction",
+    "Font preservation",
+    "Multi-page support"
+  ],
+  "chrome_web_store_url": null,
+  "description": "Canva Downloader is a powerful tool that helps you export canva designs without watermarks in high resolution with all elements intact. Built with modern technologies, it provides a seamless experience for downloading and managing content.",
+  "product_video": null,
+  "related_videos": null,
+  "changelog": null,
+  "version_number": 1,
+  "updated_at": "2025-01-23T00:00:00Z",
+  "troubleshooting_instructions": [],
+  "installation_instructions": "1. Clone the repository: git clone https://github.com/serpapps/canva-downloader\n2. Install dependencies\n3. Configure settings\n4. Run the application",
+  "usage_instructions": [
+    "Open the application",
+    "Enter the URL of the content you want to download",
+    "Select your preferred quality and format",
+    "Click download to start the process",
+    "Files will be saved to your specified directory"
+  ],
+  "faqs": null,
+  "supported_operating_systems": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "status": "live",
+  "technologies": [
+    "Python",
+    "Puppeteer",
+    "Canvas API",
+    "SVG.js"
+  ],
+  "serpco_product_page_link": "https://store.serp.co/product-details/product/canva-downloader",
+  "serpai_product_page_link": null,
+  "file_formats": null,
+  "categories": [
+    "Design Tools",
+    "Creative Software",
+    "Export Utilities"
+  ],
+  "extraction_targets": null,
+  "content_medium": null,
+  "discovery_source": null,
+  "related_articles": null,
+  "related_gists": null,
+  "funding_links_github": [
+    "devinschumacher"
+  ],
+  "funding_links_liberapay": [
+    "serply"
+  ],
+  "funding_links_opencollective": [
+    "serply"
+  ],
+  "funding_links_custom": [
+    "https://serp.ly/canva-downloader"
+  ],
+  "keywords": [
+    "canva-downloader",
+    "canva",
+    "downloader",
+    "downloader",
+    "free",
+    "tool"
+  ]
+}
