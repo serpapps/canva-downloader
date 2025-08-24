@@ -2,9 +2,9 @@
 
 > Export Canva designs without watermarks in high resolution with all elements intact
 
-![Canva Downloader](https://raw.githubusercontent.com/serpapps/canva-downloader/assets/images/featured.gif)
+![Canva Downloader](https://raw.githubusercontent.com/serpapps/canva-downloader/assets/images/canva-downloader.gif)
 
-Canva Downloader is a powerful tool that helps you export canva designs without watermarks in high resolution with all elements intact. Built with modern technologies, it provides a seamless experience for downloading and managing content.
+Canva Downloader is a powerful tool that helps you download content from Canva instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.
 
 ## 🔗 Links
 
@@ -22,12 +22,12 @@ Canva Downloader is a powerful tool that helps you export canva designs without 
 
 ## Features
 
-- Watermark-free exports
-- SVG format support
-- Animation download
-- Template extraction
-- Font preservation
-- Multi-page support
+- Stream-to-file conversion
+- HD quality downloads
+- Batch download support
+- Resume interrupted downloads
+- No watermarks
+- Content extraction
 
 ## Installation Instructions
 
@@ -47,11 +47,17 @@ Canva Downloader is a powerful tool that helps you export canva designs without 
 ## Technologies
 
 - Python
-- Puppeteer
-- Canvas API
-- SVG.js
+- JavaScript
+- Node.js
+- Automation
 
 ## More Info
 
 - 📁 Repository [here](https://github.com/serpapps/canva-downloader)
+
+<details>
+<summary>Keywords</summary>
+
+canva downloader
+</details>
 
